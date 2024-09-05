@@ -11,8 +11,8 @@
 </head>
 <body>
     <header>
-        <div class="m"><span class="material-symbols-outlined"><a href="#">menu</a></span></div>
-        <menu>
+        <div class="m"><span class="material-symbols-outlined" onclick="clickMenu()" ><a href="#">menu</a></span></div>
+        <menu id="itens">
             <a href="#" class="menu">Whats</a>
             <a href="#" class="menu">Integrantes</a>
             <a href="#" class="menu">Fotos</a>
@@ -30,6 +30,13 @@
     <footer>
 
     </footer>
-    
+    <script>
+        function clickMenu(){
+
+            if (itens.style.display == "block"){
+                itens.style.display = "none";
+            } else {itens.style.display = "block";
+        } }
+    </script>
 </body>
 </html>
