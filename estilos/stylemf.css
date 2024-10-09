@@ -79,7 +79,7 @@ header h1{
 }
 
 section{
-    height: 600px;
+    height: 650px;
 }
 
 #ss{
@@ -112,7 +112,7 @@ section{
 .imagem{
     background-color: lightgray;
     background-attachment: fixed;
-    height: 400px;
+    
     
     
 }
