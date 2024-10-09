@@ -78,6 +78,7 @@ header h1{
     display: none;
 }
 
+
 section{
     height: 650px;
 }
@@ -109,10 +110,10 @@ section{
 
 }
 
-.imagem{
+/*.imagem{
     background-color: lightgray;
     background-attachment: fixed;
-    height: 500px;
+    height: 350px;
     
     
     
@@ -124,5 +125,5 @@ section{
     background-position: center;
     background-repeat: no-repeat;
 
-}
+}*/
 
