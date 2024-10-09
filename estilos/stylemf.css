@@ -79,7 +79,7 @@ header h1{
 }
 
 section{
-    height: 500px;
+    height: 600px;
 }
 
 #ss{
@@ -96,15 +96,15 @@ section{
 
 #ss img{
     border-radius: 50%;
-    width: 200px;
-    height: 200px;
+    width: 100px;
+    height: 100px;
     margin-right: 0px;
     margin: auto;
 }
 
 #ss p {
     text-align: justify;
-    width: 250px;
+    width: 150px;
     margin: auto;
 
 }
